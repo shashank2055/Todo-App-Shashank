@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Todo-App-Shashank/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/Todo-App-Shashank/app/src/main/res/layout/fragment_add_todo.xml" value="0.1793478260869565" />
         <entry key="..\:/Todo-App-Shashank/app/src/main/res/layout/fragment_todo_list.xml" value="0.1793478260869565" />
         <entry key="..\:/Todo-App-Shashank/app/src/main/res/layout/list_item.xml" value="0.1793478260869565" />
       </map>
